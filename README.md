@@ -5,8 +5,7 @@ Very lazy dark theme for musescore.com.  Probably the laziest thing I've ever ma
 
 ![](https://i.imgur.com/PxkyTsM.png)
 
-## Chrome webstore link
-Coming soon
+[Get it on the chrome web store](https://chrome.google.com/webstore/detail/musescore-lazy-dark-theme/agdafgppephcpdboddbhaephgffghehh)
 
 ## Manual Installation
 
